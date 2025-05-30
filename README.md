@@ -1,11 +1,9 @@
 ## Hi there 👋
 
-I am currently an undergraduate at AI&XR Lab, Shandong University (SDU), I'll join HKUST as a PhD student in 2025 Fall.
+I’m a first-year Ph.D. student in Computer Science and Engineering at The Hong Kong University of Science and Technology (HKUST), supervised by Professor [Xiaojuan Ma](https://www.cse.ust.hk/~mxj/). 
 
 My research mainly focuses on Human-computer Interaction, Human-centered AI, NLP and Pattern recognition. To be specific, I am researching human-centered computing, aiming to better understand humans through the analysis of human-generated data.
 
-
-![research](https://github.com/user-attachments/assets/da390f25-2b97-4b0b-8bc0-1f242e6cbe5e)
 
 [![Baiqiao's GitHub stats](https://github-readme-stats.vercel.app/api?username=SLEEPYBQ)](https://github.com/anuraghazra/github-readme-stats)
 
