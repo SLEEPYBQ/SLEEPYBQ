@@ -21,7 +21,9 @@ jobs:
           card: stats
           options: username=${{ github.repository_owner }}
           path: profile/stats.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          # A PAT in STATS_TOKEN includes private repositories; otherwise this
+          # falls back to public statistics from the workflow token.
+          token: ${{ secrets.STATS_TOKEN || secrets.GITHUB_TOKEN }}
           fail_on_error: true
 
       - name: Commit updated card
