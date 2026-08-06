@@ -2,7 +2,7 @@
 
 I’m a first-year Ph.D. student in Computer Science and Engineering at The Hong Kong University of Science and Technology (HKUST), supervised by Professor [Xiaojuan Ma](https://www.cse.ust.hk/~mxj/). 
 
-My research mainly focuses on Human-computer Interaction, Human-centered AI, NLP and Pattern recognition. To be specific, I am researching human-centered computing, aiming to better understand humans through the analysis of human-generated data.
+My research focuses on **Human-AI Alignment**: keeping people and AI in sync as they work together. I model the states behind this alignment, including memory, confidence, attention, and personality, and build interactions that make collaboration trustworthy and keep the two aligned in both directions. My earlier work modeled human states such as flow, attention, personality, and intent from interaction (Language, Video, Action) and physiological signals.
 
 
 [![Baiqiao's GitHub stats](https://github-readme-stats.vercel.app/api?username=SLEEPYBQ)](https://github.com/anuraghazra/github-readme-stats)
