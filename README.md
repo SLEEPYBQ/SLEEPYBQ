@@ -5,7 +5,7 @@ I’m a first-year Ph.D. student in Computer Science and Engineering at The Hong
 My research focuses on **Human-AI Alignment**: keeping people and AI in sync as they work together. I model the states behind this alignment, including memory, confidence, attention, and personality, and build interactions that make collaboration trustworthy and keep the two aligned in both directions. My earlier work modeled human states such as flow, attention, personality, and intent from interaction (Language, Video, Action) and physiological signals.
 
 
-[![Baiqiao's GitHub stats](https://github-readme-stats.vercel.app/api?username=SLEEPYBQ)](https://github.com/anuraghazra/github-readme-stats)
+[![Baiqiao's GitHub stats](./profile/stats.svg)](https://github.com/stats-organization/github-stats-extended)
 
 
 
