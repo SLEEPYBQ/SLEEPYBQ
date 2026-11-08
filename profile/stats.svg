@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Baiqiao Zhang&#39;s GitHub Stats, Rank: A-</title>
-        <desc id="descId">Total Stars Earned: 238, Total Commits  (last year) : 1273, Total PRs: 52, Total Issues: 14, Contributed to (last year): 13</desc>
+        <desc id="descId">Total Stars Earned: 247, Total Commits  (last year) : 1283, Total PRs: 55, Total Issues: 14, Contributed to (last year): 13</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 84.45139823318786;
+        stroke-dashoffset: 82.73231482491188;
       }
     }
   
@@ -165,7 +165,7 @@
         x="204.01"
         y="12.5"
         data-testid="stars"
-      >238</text>
+      >247</text>
     </g>
   </g><g transform="translate(0, 25)">
     <g class="stagger" style="animation-delay: 600ms" transform="translate(25, 0)">
@@ -187,7 +187,7 @@
         x="204.01"
         y="12.5"
         data-testid="prs"
-      >52</text>
+      >55</text>
     </g>
   </g><g transform="translate(0, 75)">
     <g class="stagger" style="animation-delay: 900ms" transform="translate(25, 0)">
