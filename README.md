@@ -1,26 +1,29 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Baiqiao Zhang 👋</h1>
+<p align="center">
+  <b>Ph.D. Student in Computer Science and Engineering</b><br>
+  The Hong Kong University of Science and Technology (HKUST)
+</p>
 
-I’m a first-year Ph.D. student in Computer Science and Engineering at The Hong Kong University of Science and Technology (HKUST), supervised by Professor [Xiaojuan Ma](https://www.cse.ust.hk/~mxj/). 
+<p align="center">
+  <a href="https://baiqiaozhang.cc"><img src="https://img.shields.io/badge/Homepage-baiqiaozhang.cc-E8743B?style=flat-square&height=20&logo=googlechrome&logoColor=white" align="middle" height="20" alt="Homepage"></a>
+  <a href="https://scholar.google.com/citations?user=qxAMCvgAAAAJ&hl=en"><img src="https://img.shields.io/badge/Google_Scholar-Profile-1F3A5F?style=flat-square&height=20&logo=googlescholar&logoColor=white" align="middle" height="20" alt="Google Scholar"></a>
+  <a href="mailto:baiqiao.zhang@connect.ust.hk"><img src="https://img.shields.io/badge/Email-baiqiao.zhang@connect.ust.hk-5B7DB1?style=flat-square&height=20&logo=maildotru&logoColor=white" align="middle" height="20" alt="Email"></a>
+</p>
 
-My research focuses on **Human-AI Alignment**: keeping people and AI in sync as they work together. I model the states behind this alignment, including memory, confidence, attention, and personality, and build interactions that make collaboration trustworthy and keep the two aligned in both directions. My earlier work modeled human states such as flow, attention, personality, and intent from interaction (Language, Video, Action) and physiological signals.
+---
 
+### Research
 
-[![Baiqiao's GitHub stats](./profile/stats.svg)](https://github.com/stats-organization/github-stats-extended)
+I'm a second-year Ph.D. student in Computer Science and Engineering at **The Hong Kong University of Science and Technology (HKUST)**, advised by Prof. [Xiaojuan Ma](https://www.cse.ust.hk/~mxj/), and collaborating with Prof. [Shuai Ma](https://shuaima.cc/) on Hybrid Intelligence.
 
+I work on Human-AI Alignment, I model human and AI states across modalities to build mixed-initiative systems where people and AI co-evolve.
 
+### Open Source
 
-<!--![屏幕截图 2025-04-05 143506](https://github.com/user-attachments/assets/f9105a21-fe42-4334-ad18-692663c0707b)
+I build and contribute to open-source projects:
 
-**SLEEPYBQ/SLEEPYBQ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="https://github.com/SLEEPYBQ/MemoSync"><img src="https://img.shields.io/badge/MemoSync-E8743B?style=flat-square&height=20&logo=github&logoColor=white" height="20" alt="MemoSync"></a> <a href="https://github.com/OpenHands/software-agent-sdk"><img src="https://img.shields.io/badge/OpenHands_SDK-1F3A5F?style=flat-square&height=20&logo=github&logoColor=white" height="20" alt="OpenHands_SDK"></a> <a href="https://github.com/yu-i-i/overleaf-cep"><img src="https://img.shields.io/badge/Overleaf--CEP-47A141?style=flat-square&height=20&logo=overleaf&logoColor=white" height="20" alt="Overleaf--CEP"></a> <a href="https://github.com/LBEILC/DispatchDock"><img src="https://img.shields.io/badge/DispatchDock-5B7DB1?style=flat-square&height=20&logo=github&logoColor=white" height="20" alt="DispatchDock"></a>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <a href="https://github.com/stats-organization/github-stats-extended"><img src="./profile/stats.svg" alt="Baiqiao's GitHub stats"></a>
+</p>
