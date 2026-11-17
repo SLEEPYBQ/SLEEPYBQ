@@ -20,7 +20,7 @@ I work on Human-AI Alignment, I model human and AI states across modalities to b
 
 ### Open Source
 
-I contributed to open-source projects:
+I contributed to the following open-source projects:
 
 <a href="https://github.com/SLEEPYBQ/MemoSync"><img src="https://img.shields.io/badge/MemoSync-E8743B?style=flat-square&height=20&logo=github&logoColor=white" height="20" alt="MemoSync"></a> <a href="https://github.com/OpenHands/software-agent-sdk"><img src="https://img.shields.io/badge/OpenHands_SDK-1F3A5F?style=flat-square&height=20&logo=github&logoColor=white" height="20" alt="OpenHands_SDK"></a> <a href="https://github.com/Lee-xeo/Claude-Cage"><img src="https://img.shields.io/badge/Claude--Cage-6B5B95?style=flat-square&height=20&logo=claude&logoColor=white" height="20" alt="Claude-Cage"></a> <a href="https://github.com/yu-i-i/overleaf-cep"><img src="https://img.shields.io/badge/Overleaf--CEP-47A141?style=flat-square&height=20&logo=overleaf&logoColor=white" height="20" alt="Overleaf--CEP"></a>
 
